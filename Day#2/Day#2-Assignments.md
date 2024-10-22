@@ -64,11 +64,14 @@
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
 > Add your answer here!
+https://github.com/SanthoshNC/22AM0XE-Assignments/pull/9
+![Screenshot 2024-10-22 131458](https://github.com/user-attachments/assets/a83c8211-71ff-454d-a90b-b4e179e1740f)
 
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/dd72fc78-bc72-4292-b049-665276102d99)
 
 ***
 
