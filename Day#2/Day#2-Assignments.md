@@ -77,5 +77,6 @@ https://github.com/SanthoshNC/22AM0XE-Assignments/pull/9
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/2af499f0-e5bf-4a6c-9231-cb2161ea0473)
 
 ***
